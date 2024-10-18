@@ -137,6 +137,7 @@ fabric.properties
 
 *.idsig
 signing-key-info.txt
+.idea/deploymentTargetSelector.xml
 
 .DS_Store
 ._*
